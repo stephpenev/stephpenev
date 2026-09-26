@@ -1,8 +1,8 @@
 # Hi, I'm Steph 👋
 
-I'm a Front End Web Developer with 5+ years of hands-on experience building accessible, user-friendly websites and applications. My focus is always on delivering excellent UX, strong functionality, and a great experience for users — all shaped by careful thinking, a love for the work, and plenty of coffee ☕
+I'm a Front End Web Developer with 5+ years of hands-on experience in building accessible, user-friendly websites and applications. My focus is always on delivering products that embody intuitive user experience and thoughtful functionality. My perspective is shaped by an eye for design, genuine care for my craft, and plenty of coffee ☕
 
-I also bring 8+ years of experience in graphic and web design, communications, and project management, which helps me create products that are both technically solid and thoughtfully designed.
+I draw upon 8+ years in my previous career in graphic and web design, communications, and project management, which combined help me to create products that are both technically and experentially sound.
 
 ## What I work with 💻
 
@@ -11,6 +11,8 @@ I also bring 8+ years of experience in graphic and web design, communications, a
 - HTML
 - Vue.js and Pinia
 - React
+- Laravel
+- PHP
 - API integrations
 - Git
 - AWS
